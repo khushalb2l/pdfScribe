@@ -1,0 +1,6 @@
+.custom-border {
+    border-top-width: 0.5px; 
+    border-image-source: linear-gradient(270.14deg, rgba(0, 128, 128, 0.2) 2.53%, rgba(97, 171, 171, 0.8) 44.83%, rgba(0, 128, 128, 0.2) 90.17%);
+    border-image-slice: 1; 
+    border-color: transparent;
+}
